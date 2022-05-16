@@ -42,8 +42,5 @@ We are adopting some conventions and patterns at OnlyDust that are described in 
 Please read them carefully. They will help you understand the existing code base of our repositories, 
 and contribute in a way that follows the same principles and integrate nicely with the rest of the code.
 
-TODO: PUBLISH ARTICLES
-
-[https://mirror.xyz/0xBa9E280B752B09eA866E9Cc0C8fE0fCef241B63c/uHOrdw780uaOSP-pNgIDiEPqvTT1eL0W1QJpPZuhdPw](https://mirror.xyz/0xBa9E280B752B09eA866E9Cc0C8fE0fCef241B63c/uHOrdw780uaOSP-pNgIDiEPqvTT1eL0W1QJpPZuhdPw)
-
-[https://mirror.xyz/0xBa9E280B752B09eA866E9Cc0C8fE0fCef241B63c/ekwvUpolvVtZBVutk2D-hoxgCh0AtiK8QM_zfnvJ1fE](https://mirror.xyz/0xBa9E280B752B09eA866E9Cc0C8fE0fCef241B63c/ekwvUpolvVtZBVutk2D-hoxgCh0AtiK8QM_zfnvJ1fE)
+* [SOLID cairo - OOP-like pattern](https://mirror.xyz/onlydust.eth/rR2Gt31kGQLlXZ27mLb_4Jtwh-cu8r6v51YSh-ECMw8)
+* [SOLID cairo - The iterator pattern](https://mirror.xyz/onlydust.eth/RQSr5vOJiVsEFyZYrcMSkRZM0HxThFM21qb23pmBTgc)

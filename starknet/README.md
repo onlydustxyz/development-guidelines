@@ -7,7 +7,7 @@ This page presents the internal StarkNet development guidelines at OnlyDust. Ple
 Generally speaking, namespaces, structs, functions, variables, etc. should be named with care to be as clear as possible. 
 Someone reading the code should understand what a variable holds, or what a function does, just by reading its name.
 
-We avoid abbreviations, unless it is explicitly defined in the [Known abbreviations](https://www.notion.so/Naming-convention-e02e496b5c364c55af96aa9540942924) table.
+We avoid abbreviations, unless it is explicitly defined in the [Known abbreviations](#known-abbreviations) table.
 
 | Object | Visibility | Pattern | Example |
 | --- | --- | --- | --- |

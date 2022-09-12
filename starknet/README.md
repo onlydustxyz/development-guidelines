@@ -9,18 +9,7 @@ Someone reading the code should understand what a variable holds, or what a func
 
 We avoid abbreviations, unless it is explicitly defined in the [Known abbreviations](#known-abbreviations) table.
 
-| Object | Visibility | Pattern | Example |
-| --- | --- | --- | --- |
-| Contract (file) name | N/A | snake case | only_dust |
-| Interface name | N/A | CamelCase starting with an uppercase I | IShip |
-| Contract attribute | N/A | snake case suffixed by an underscore | tournament_name_ |
-| Contract constant | All | capital letters separated with underscores | ERC1820_MAGIC_NUMBER |
-| Function name | view/external | snake case | is_interested() |
-| Function name | internal | snake case, inside a namespace internal | prepare_next_round() |
-| Function parameter | N/A | snake case | funding_prize |
-| Function return parameter | N/A | snake case | funding_prize |
-| Local variable | N/A | snake case | bounty_beneficiary |
-| Namespace | N/A | snake case, excepted for interfaces | tournament |
+We follow [OpenZeppelin extensibility pattern](https://docs.openzeppelin.com/contracts-cairo/0.3.2/extensibility) as it provides good practices to develop safer smart contracts.
 
 ### Specific naming
 
